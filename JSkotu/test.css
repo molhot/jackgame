@@ -16,3 +16,32 @@ body{
 .PL{
     display:flex;
 }
+
+.btn_1{
+    margin-left: 33%;
+}
+
+.btn_2{
+    margin-left: 35%;
+}
+
+.img{
+    margin-top: 2%;
+    margin-left: 8%;
+}
+
+.mount{
+    height: 100px;
+    margin-top: 2%;
+    margin-left: 44%;
+}
+
+.btn_3{
+    margin-top: -3%;
+    margin-left: 70%;
+}
+
+#re{
+    margin-left: 20%;
+    margin-top: -25%;
+}
